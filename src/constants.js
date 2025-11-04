@@ -41,8 +41,8 @@ import shivAnsh from './assets/company_logo/shiwansh_solutions.jpeg'
 
 
 // Education Section Logo's
-import glaLogo from './assets/education_logo/gla_logo.jpeg';
-import bsaLogo from './assets/education_logo/gla_logo.jpeg';
+import glaLogo from './assets/education_logo/gla_logo.png';
+import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vpsLogo.png';
 
 // Project Section Logo's
@@ -160,37 +160,28 @@ export const SkillsInfo = [
     {
       id: 0,
       img: glaLogo,
-      school: "Dr. A.P.J. Abdul Kalam Technical University",
-      date: "Sept 2022 - July 2025",
-      grade: "7.2 CGPA",
+      school: "ABES INSTITUTE OF TECHNOLOGY, GHAZIABAD",
+      date: "Sept 2021 - July 2025",
+      // grade: "7.2 CGPA",
       desc: "I have completed my Bachelors degree (Btech) in Computer Science and Engineering from AKTU University. I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participated in various workshops and technical events, which enhanced my skills and knowledge. My experience at GLA University has been instrumental in shaping my technical abilities and professional growth.",
       degree: "Bachelor of Technical Education B.Tech",
     },
     {
       id: 1,
-      img: bsaLogo,
-      school: "Vishveshwaya Group Of Institution Greater Noida",
-      date: "Sept 2020 - Aug 2022",
-      grade: "72.5%",
-      desc: "I completed my diploma in Computer Science (polytechnic) from Vishveshwarya Group Of Institutions College, Dadri. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
-      degree: "Polytechnic Diploma in (Computer Science)",
+      img: vpsLogo,
+      school: "SHAIFFALI PUBLIC SCHOOL, DADRI",
+      date: "Apr 2020 - March 2021",
+      // grade: "70%",
+      desc: "I completed my class 12 education from Shaiffali Public School, Dadri,  under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
+      degree: "CBSE(XII) - PCM with Computer Science",
     },
     {
       id: 2,
       img: vpsLogo,
-      school: "New Lancers Convent School Sikandrabad, BSR",
+      school: "SHAIFFALI PUBLIC SCHOOL, DADRI",
       date: "Apr 2019 - March 2020",
-      grade: "70%",
-      desc: "I completed my class 12 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
-      degree: "CBSE(XII) - PCM with Computer Science",
-    },
-    {
-      id: 3,
-      img: vpsLogo,
-      school: "New Lancers Convent School Sikandrabad, BSR",
-      date: "Apr 2017 - March 2018",
-      grade: "65%",
-      desc: "I completed my class 10 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Science with Computer.",
+      // grade: "65%",
+      desc: "I completed my class 10 education from Shaiffali Public School, Dadri, under the CBSE board, where I studied Science with Computer.",
       degree: "CBSE(X), Science with Computer Application",
     },
   ];

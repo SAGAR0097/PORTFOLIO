@@ -14,7 +14,7 @@ const Footer = () => {
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
-        <h2 className="text-xl font-semibold text-purple-500">Anmol Bhati</h2>
+        <h2 className="text-xl font-semibold text-purple-500">Sagar Singh</h2>
 
         {/* Navigation Links - Responsive */}
         <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mt-4">
@@ -38,11 +38,11 @@ const Footer = () => {
         {/* Social Media Icons - Responsive */}
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaGithub />, link: "https://github.com/Anmol606463?tab=repositories" },
+            { icon: <FaGithub />, link: "https://github.com/SAGAR0097?tab=repositories" },
            { icon: <FaBriefcase />, link: "https://www.naukri.com/mnjuser/profile" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/anmol-bhati-3335ba197/" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/bhati_anmol01/" },
-            { icon: <FaWhatsapp />, link: "https://wa.me/916395606463" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/sagar-singh-5ab209258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
+            { icon: <FaInstagram />, link: "https://www.instagram.com/sagr_singh10/" },
+            { icon: <FaWhatsapp />, link: "https://wa.me/917290014055" },
 
             
           ].map((item, index) => (
@@ -60,7 +60,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Anmol Bhati. All rights reserved.
+          © 2025 Sagar Singh. All rights reserved.
         </p>
       </div>
     </footer>
