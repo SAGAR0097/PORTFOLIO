@@ -167,8 +167,6 @@ export const SkillsInfo = [
         "This is a fully responsive and visually engaging portfolio website built to showcase my skills, education, projects, and resume. Designed using React and styled with Tailwind CSS, the portfolio provides smooth navigation, dark/light mode support, and a professional user interface. It also integrates links to my GitHub, LinkedIn, and contact form, making it easy for recruiters and collaborators to reach out.",
       image: personal,
       tags: ["HTML", "CSS", "JavaScript", "React JS","Tailwind CSS", "GitHub","Vercel" ,"Git"],
-      github: "https://github.com/Anmol606463/Anmol-portfolio",
-      webapp: "https://anmol-portfolio-6y99.vercel.app/",
     },
     /*{
       id: 1,
@@ -198,8 +196,6 @@ export const SkillsInfo = [
 ,
       image: toolKit,
       tags: ["React JS", "Node.js","Validation",".net core api" , "tailwind css", "Git" ,"Github", "Vercel"],
-      github: "https://github.com/Anmol606463/relhan-website",
-      webapp: "https://relhan-website.vercel.app/",
     },
     /*{
       id: 4,
