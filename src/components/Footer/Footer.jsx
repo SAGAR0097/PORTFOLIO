@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaBriefcase, FaLinkedin, FaInstagram, FaWhatsapp } from "react-icons/fa";
+import { FaGithub, FaBriefcase, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 
 const Footer = () => {
   // Smooth scroll function
@@ -39,9 +39,8 @@ const Footer = () => {
         <div className="flex flex-wrap justify-center space-x-4 mt-6">
           {[
             { icon: <FaGithub />, link: "https://github.com/SAGAR0097?tab=repositories" },
-           { icon: <FaBriefcase />, link: "https://www.naukri.com/mnjuser/profile" },
+            { icon: <FaBriefcase />, link: "https://www.naukri.com/mnjuser/profile?id=&altresid" },
             { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/sagar-singh-5ab209258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/sagr_singh10/" },
             { icon: <FaWhatsapp />, link: "https://wa.me/917290014055" },
 
             
